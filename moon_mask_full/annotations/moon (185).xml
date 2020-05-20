@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>moon (185).jpg</filename>
+	<path>G:\TCS EXIT BACKUPS\Project_docs\VIIT session\Mask_RCNN-master\samples\moon\moon\train\moon (185).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>312</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>moon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>50</ymin>
+			<xmax>239</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>
