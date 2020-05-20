@@ -14,12 +14,15 @@ Inspired from : https://towardsdatascience.com/object-detection-using-mask-r-cnn
 Inspired from : https://github.com/matterport/Mask_RCNN
 
 
-# Tensowflow and keras may have some version issues. As some the function calls from '/matterport/Mask_RCNN' 
-# is of old version. Create your enviornmnet accordingly else you have to modify inside the actual functions.
-# Recommended to use tensorflow 1.4+ and Keras 2.0.8+. 
+Tensowflow and keras may have some version issues. As some the function calls from '/matterport/Mask_RCNN' 
+is of old version. Create your enviornmnet accordingly else you have to modify inside the actual functions.
+Recommended to use tensorflow 1.4+ and Keras 2.0.8+. 
 
 
+Suggestion : 
 
+Use Google's Colab if you don't have GPU. Same code will work there easily. 
+Increase the epoch (5- 25)  and layers ('all' , '3+', '4+' , 'heads' ) for better accuracy.
 
 
 
