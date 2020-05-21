@@ -1,4 +1,4 @@
-# moon-tracker
+# Vision based moon-tracker
 
 ![alt text](https://github.com/praveenkottayi/moon-tracker/blob/master/cover/moon-set.png?raw=true)
  
@@ -17,8 +17,13 @@ Inspired from : https://github.com/matterport/Mask_RCNN
 
 # Suggestions : 
 
-1. Use **Google's Colab** if you don't have **GPU**. Same code will work there easily. 
+1. Use **Google's Colab** if you don't have a **GPU** to work with. Same code will work there easily. 
 Also it will reduce the error based on the **tensorflow dependency**. 
+
+Keeping your files in Google drive and mounting the same in the colab enviormnet. 
+And just change the working directory to the moon-tracker will be cake walk. 
+
+https://colab.research.google.com/notebooks/io.ipynb
 
 2. Tensowflow and keras may have some version issues. As some the function calls from **'/matterport/Mask_RCNN'** 
 is of old version. Create your enviornmnet accordingly else you have to modify inside the actual functions.
