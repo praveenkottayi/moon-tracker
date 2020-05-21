@@ -14,6 +14,7 @@ Inspired from : https://towardsdatascience.com/object-detection-using-mask-r-cnn
 
 Inspired from : https://github.com/matterport/Mask_RCNN
 
+**Follow the below  steps to create any custom object mask and object locator of your interest.**
 
 # Suggestions : 
 
@@ -42,3 +43,5 @@ Also the moon-tracker code will work in normal PC with CPU environment.
 
 6. Notebook by default saves the trained model in **moon_model**. 
 If an improved model is used while testing it can result in better accuracy. 
+
+7. Now explore **moon_mask.ipynb** to run your moon-tracker.  
