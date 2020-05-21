@@ -1,4 +1,4 @@
-# Vision based moon-tracker
+# Vision based moon-tracker (for image & video) 
 
 ![alt text](https://github.com/praveenkottayi/moon-tracker/blob/master/cover/moon-set.png?raw=true)
  
@@ -45,3 +45,5 @@ Also the moon-tracker code will work in normal PC with CPU environment.
 If an improved model is used while testing it can result in better accuracy. 
 
 7. Now explore **moon_mask.ipynb** to run your moon-tracker.  
+
+![alt text](https://github.com/praveenkottayi/moon-tracker/blob/master/cover/moon-gif.gif?raw=true)
